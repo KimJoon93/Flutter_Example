@@ -1,5 +1,9 @@
 # Flutter_Example
 
+## What is Flutter?
+
+It is Mobile UI Framework Opened to the public by Google. You can make IOS, Android App by one code.
+But it's not perfect yet to use native things.
 ## Flutter meet up 을 다녀와서 ...
 
 ## How to use Flutter
